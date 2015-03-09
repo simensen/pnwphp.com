@@ -1,0 +1,9 @@
+{
+    "name": "pnwphp",
+    "main": "source/assets/css/style.css",
+    "dependencies": {
+        "jquery": "1.11.2",
+        "fontawesome": "4.3.0",
+        "bootstrap-sass-official": "3.3.3"
+    }
+}

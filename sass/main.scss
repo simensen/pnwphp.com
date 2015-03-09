@@ -1,0 +1,16 @@
+@import "sass/modules/bootstrap/_variables.scss";
+@import "sass/modules/fontawesome/_variables.scss";
+@import "source/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap.scss";
+@import "source/bower_components/fontawesome/scss/font-awesome.scss";
+
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.nav-page-home .jumbotron:first-of-type {
+	background-image: url(pnwphp-header.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
